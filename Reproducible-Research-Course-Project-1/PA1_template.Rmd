@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research Project 1"
-author: "Michael Galarnyk"
+author: "HuiQiong Wang"
 date: "14/11/2019"
 output:
   md_document:
